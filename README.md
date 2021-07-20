@@ -3,6 +3,7 @@ The smart dustbin is an embedded project for electronics using C programing lang
 
 #Images
 
+#Eagle Design
 
 ![Eagle2](https://user-images.githubusercontent.com/78161633/126268230-d2112d25-4b57-4360-a865-2106ff15a816.PNG)
 ![pcb](https://user-images.githubusercontent.com/78161633/126268258-e5df9adf-fb64-48d8-8954-aceef7f66a2c.jpg)
